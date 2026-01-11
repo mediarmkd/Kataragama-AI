@@ -1,0 +1,9 @@
+{
+  "name": "Kataragama AI",
+  "description": "A comprehensive AI suite powered by Gemini, featuring multi-modal analysis, high-fidelity image and video generation, real-time voice interaction, and ground-breaking reasoning capabilities. Developed by Kasun Kavinda Gunasekara.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
